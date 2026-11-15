@@ -11,7 +11,7 @@
 [Youtube Video](<YOUTUBE_URL>)
 
 ### Windows Version
-[Download Windows build](<https://github.com/VoidTT1/Wavebound-Unity/releases/tag/v0.2-beta>)
+[Download Windows build](<https://github.com/VoidTT1/Litany_Unity/releases/tag/Game>)
 
 
 ![WaveBound Gameplay](Media/gameplay.gif) ![WaveBound Gameplay](Media/gameplay.gif)
