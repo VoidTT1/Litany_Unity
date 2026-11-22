@@ -15,7 +15,7 @@
 
 ![Litany Gameplay](Media/Gif/4Gif.gif)
 ---------------------------------------
-![Litany Gameplay](Media/Gif/2Gif.gif)
+![Litany Gameplay](Media/Gif/1Gif.gif)
 ---------------------------------------
 ![Litany Gameplay](Media/Gif/3Gif.gif)
 
