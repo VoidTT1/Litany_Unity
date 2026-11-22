@@ -11,8 +11,9 @@
 ### Windows Version
 [[ Download Windows build ]](<https://github.com/VoidTT1/Litany_Unity/releases/tag/Game>)
 
+## Gif:
 
-![Litany Gameplay](Media/Gif/1Gif.gif)
+![Litany Gameplay](Media/Gif/4Gif.gif)
 ---------------------------------------
 ![Litany Gameplay](Media/Gif/2Gif.gif)
 ---------------------------------------
